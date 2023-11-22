@@ -1,7 +1,6 @@
-# Init model (OpenAI vs. OctoAI)
 use_openai = True
 
-# Init client (OpenAI vs. OctoAI)
+# Init model (OpenAI vs. OctoAI)
 # Total changes: remove 3 LoCs, add 3 LoCs
 if use_openai:
     # Use OpenAI LLM
