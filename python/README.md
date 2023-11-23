@@ -1,5 +1,9 @@
 ## Getting started
 
+### Watch the video on how easy it is to transition from OpenAI GPT-3.5 to Llama70B on OctoAI
+
+[Video Link](https://www.loom.com/share/8e17cdb631364df988750bd957533fc0?sid=bd06546f-3f30-4e93-afd5-e6f566403058)
+
 ### Create a Python virtual environment
 
 ```python
