@@ -57,3 +57,16 @@ to:
 ```python
 use_openai = False
 ```
+
+### LLM Options
+
+There are several open source LLMs at your disposal that you can test out, with different quality and performance tradeoffs depending on the use case:
+
+* `codellama-13b-instruct-fp16`
+* `codellama-34b-instruct-int4`
+* `codellama-34b-instruct-fp16`
+* `codellama-7b-instruct-fp16`
+* `llama-2-13b-chat-fp16`
+* `llama-2-70b-chat-fp16`
+* `llama-2-70b-chat-int4`
+* `mistral-7b-instruct-fp16`
